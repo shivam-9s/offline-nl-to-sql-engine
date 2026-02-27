@@ -243,7 +243,7 @@ SELECT * FROM employees WHERE salary > 70000;
 ## 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/yourusername/offline-nl-to-sql-engine.git
+git clone https://github.com/shivam-9s/offline-nl-to-sql-engine.git
 ```
 
 ```
